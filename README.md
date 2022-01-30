@@ -22,6 +22,7 @@ From initial Prompt type the following commands:
 pacman -Sy git
 git clone https://github.com/Danneman92/ArchInstall
 cd ArchInstall
+chmod +x *.*
 ./archtitus.sh
 ```
 
