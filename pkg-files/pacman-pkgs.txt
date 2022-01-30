@@ -28,7 +28,6 @@ bluez-utils
 bridge-utils
 btrfs-progs
 celluloid
-cmatrix
 code
 cronie
 cups
@@ -104,3 +103,4 @@ zip
 zsh
 zsh-syntax-highlighting
 zsh-autosuggestions
+nano

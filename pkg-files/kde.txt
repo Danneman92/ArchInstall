@@ -7,7 +7,6 @@ audiocd-kio
 bluedevil
 breeze
 breeze-gtk
-discover
 extra-cmake-modules
 filelight
 gwenview
