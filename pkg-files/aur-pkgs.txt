@@ -3,8 +3,6 @@ autojump
 brave-bin
 dxvk-bin
 github-desktop-bin
-lightly-git
-lightlyshaders-git
 nerd-fonts-fira-code
 nordic-darker-standard-buttons-theme
 nordic-darker-theme

@@ -27,7 +27,7 @@ fi
 
 echo -e "Installing CyberRe Grub theme..."
 THEME_DIR="/boot/grub/themes"
-THEME_NAME=CyberRe
+THEME_NAME=Shodan
 echo -e "Creating the theme directory..."
 mkdir -p "${THEME_DIR}/${THEME_NAME}"
 echo -e "Copying the theme..."
