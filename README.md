@@ -17,8 +17,8 @@ From initial Prompt type the following commands:
 
 ```
 pacman -Sy git
-git clone https://github.com/ChrisTitusTech/ArchTitus
-cd ArchTitus
+git clone https://github.com/Danneman92/ArchInstall
+cd ArchInstall
 ./archtitus.sh
 ```
 
