@@ -12,4 +12,5 @@ ocs-url
 sddm-nordic-theme-git
 snapper-gui-git
 ttf-meslo
+glava-git
 pamac-all
