@@ -4,12 +4,7 @@ brave-bin
 dxvk-bin
 github-desktop-bin
 nerd-fonts-fira-code
-nordic-darker-standard-buttons-theme
-nordic-darker-theme
-nordic-kde-git
-nordic-theme
 ocs-url
-sddm-nordic-theme-git
 snapper-gui-git
 ttf-meslo
 pamac-all
