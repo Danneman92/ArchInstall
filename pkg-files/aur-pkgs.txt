@@ -7,4 +7,5 @@ nerd-fonts-fira-code
 ocs-url
 snapper-gui-git
 ttf-meslo
+glava-git
 pamac-all
