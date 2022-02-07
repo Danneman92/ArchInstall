@@ -21,6 +21,7 @@ automake
 awesome-terminal-fonts
 bash-completion
 bind
+bison
 bluez
 bluez-libs
 bluez-utils
@@ -29,7 +30,10 @@ btrfs-progs
 vlc
 cronie
 cups
+dialog
+dtc
 efibootmgr
+egl-wayland
 exfat-utils
 flex
 fuse2
@@ -53,6 +57,7 @@ libtool
 lsof
 lutris
 lzop
+m4
 make
 neofetch
 ntfs-3g
@@ -75,14 +80,20 @@ python-pyqt5
 python-pip
 barrier
 steam
+qemu
+snap-pack
 snapper
+swtpm
 terminus-font
 traceroute
 ttf-droid
 ttf-hack
 ttf-roboto
+ufw
 unrar
 unzip
+virt-manager
+virt-viewer
 which
 wine-gecko
 wine-mono
